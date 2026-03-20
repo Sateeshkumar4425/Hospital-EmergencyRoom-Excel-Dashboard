@@ -25,7 +25,7 @@ This project analyzes hospital emergency room data using Microsoft Excel to trac
 - Patient wait time tracking
 
 ## 📷 Dashboard Preview
-![Dashboard](Hospital_Emergency_Room_DB.png) 
+![Dashboard](Result/Hospital_Emergency_Room_DB.png) 
 
 ## 💡 Key Insights
 - Majority of patients come through General Practice
